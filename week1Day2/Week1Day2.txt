@@ -1,0 +1,45 @@
+Array
+* length
+* includes()
+* undefined
+* sort() & reverse()
+* coping Array
+* push(),pop(),shift(),unshift()
+* splice()
+
+String
+
+* length
+* replace()
+* toUpperCase(),toLowerCase()
+* trim()
+* split()
+* substring()
+* slice
+* chatAt()
+* indexOf()
+
+Map
+* set()
+* get()
+* has()
+* delete()
+* clear()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
