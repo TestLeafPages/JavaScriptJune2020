@@ -21,7 +21,7 @@ if (value1.length !== value2.length) {
     var value3 = value1.toLowerCase();
     var value4 = value2.toLowerCase();
 
-    if (value3 === value4) { return false; }
+    if (value3 === value4) { console.log(false); }
     let str1 = value3.split("").sort().join("");
     let str2 = value4.split("").sort().join("");
     console.log(str1 === str2)
