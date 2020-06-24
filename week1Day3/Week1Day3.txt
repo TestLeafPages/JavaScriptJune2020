@@ -1,0 +1,20 @@
+* Set
+	* add()
+	* delete()
+	* has()
+	* size
+* Date
+	* getFullYear()
+	* getMonth()
+	* getDate()
+	* setDate
+* Class
+* new keyword
+* Constructor
+* Variables Scope
+* this keyword
+* property Object
+* dot notation & [] notation
+* debugging
+* (#) ->private & (_) protected variable
+* encapsulation(getter & setter)
