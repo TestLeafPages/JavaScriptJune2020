@@ -18,7 +18,11 @@ let value2 = "silent";
 if (value1.length !== value2.length) {
     console.log(false);
 } else {
-    let str1 = value1.split("").sort().join("");
-    let str2 = value2.split("").sort().join("");
+    var value3 = s1.toLowerCase();
+    var value4 = s2.toLowerCase();
+
+    if (value3 === value4) { return false; }
+    let str1 = value3.split("").sort().join("");
+    let str2 = value4.split("").sort().join("");
     console.log(str1 === str2)
 }
