@@ -1,0 +1,12 @@
+* inheritance
+	* extends
+	* multilevel inheritance
+* object - supermost class
+* overriding - possible
+* constructor - (1 constructor in ES6)
+* overloading is not possible
+* static variable & method
+* syntax - className.Variable ,className.method()
+* instanceOf - return type -> boolean
+* super keyword - call superclass method,constructor
+* extend inBuilt class - uild ur own class 
