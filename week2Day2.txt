@@ -1,0 +1,8 @@
+Revision:
+
+* regular func/named function
+* anonymouns functions => function Expression
+* Arrow Functions
+* Decorators functions
+* exception handling {try,catch,finally,throw,custom exception}
+
