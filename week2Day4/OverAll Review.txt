@@ -1,0 +1,30 @@
+OverAll Topics Covered
+
+1) Variable - var ,let 
+2) Operators
+3) Loops - for,while
+4) Conditional Statements - if..else, switch
+5) type Conversions - string to number/boolean, typeof
+6) Arrays - sort,
+7) Map - key- value pair
+8) String - lowercase,uppercase,charAt,
+9) Classes (private,protected)
+10) Constructor,this
+11) Date - getdate,getday,getmonth, getfullyear
+12) Set - single dimentional , no dup
+13) object literals 
+14) inheritance
+15) Extending builtin 
+16) InstanceOf
+17) Static
+18) function declaration,function expression,ArrowFunction, Anonymous Function
+19) Recursion function
+20) Scheduling
+21) Decorators
+22) exceptions Handling {try...catch}, extending custom class
+23) callback
+24) promise
+25) Async/Await
+26) Modules - import & export
+27) Proxy
+28) Eval
